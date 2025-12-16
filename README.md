@@ -38,8 +38,7 @@ The key metrics that drive the analysis are:
 
 This HR analytics project identified key workforce trends, such as a predominance of employees in certain age groups (31–40 years), a relatively balanced gender distribution, and varying turnover rates across departments. The data reveals that certain departments like Auditing and Legal have the highest turnover rates, while the average employee tenure is approximately seven years. These insights provide valuable context for HR strategies related to recruitment, retention, and diversity initiatives.
 
-![HR Analytics](HR_Analytics_Page_1.jpg)
-![HR Analytics](HR_Analytics_Page_2.jpg)
+
 
 ## Insights Deep Dive
 
